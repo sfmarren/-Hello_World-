@@ -1,1 +1,1 @@
-# -Hello_World-
+# -Hello_World- I am currently a junior at the university of iowa stuyding business analytics and infromation systems. I am seeking employement with companies that value there employees and have a strong technology based company.
