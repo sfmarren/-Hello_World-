@@ -1,8 +1,8 @@
 ### **Project Title** 
-*Hello World - Sean Marren Sample*
+*Hello World - Sean Marren*
 
 ### **Description** 
-This assingment's main goal is to introduce basic functions and become oriented with github.
+This assingment's main goal was to introduce basic functions and become oriented with github.
 
 ### **How to run program** 
 Hello_World/
