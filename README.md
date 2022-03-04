@@ -12,7 +12,7 @@ Hello_World/
 <mark>no files were uploaded for this assingment
     
 ### **Additional documentation**
-  *No additional documents were needed for this assingment*
+  *No additional documents were needed for this assingment* ;)
   
 ### **Version Summary**
   - [x] this was edited and created on March 3, 2022
